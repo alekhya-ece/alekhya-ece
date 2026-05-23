@@ -6,7 +6,8 @@ Ece student at marwadiuniversity
 
 - 🔭 I’m currently learning ai and basics of embedded systems
 - 👯 intrested in : embedded system ,iot,signal processing 
--💫SKILLS
+
+#SKILLS
 c programming 
 digital electronics 
  
